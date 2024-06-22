@@ -1,9 +1,9 @@
 ## Table Of Contents
 
-Pre-requisites
-Run Your First Test
-Parallel Testing With TestNG
-Local Testing With TestNG
+### Pre-requisites
+### Run Your First Test
+### Parallel Testing With TestNG
+### Local Testing With TestNG
 
 
 ## Pre-requisites
